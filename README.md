@@ -15,10 +15,11 @@ Git and GitHub: The Complete Git and GitHub Course (3h 4m) - https://learning.or
 Git Essentials: Become a Git and GitHub Ninja (2h 52m) - https://learning.oreilly.com/videos/git-essentials-become/9781800565630/
 
 ```
-Users must have a VALID UT Dallas email address in order to access O’Reilly. Additionally, users who create
-an account (free) may enjoy extra benefits such as direct access to www.oreilly.com without logging in through 
-the library site, the ability to bookmark ebook and video content, and access to O’Reilly on tablets and mobile 
-devices through the O’Reilly app (iOS and Android compatible).
+Users must have a VALID UT Dallas email address in order to access O’Reilly. Additionally,
+users who create an account (free) may enjoy extra benefits such as direct access to 
+oreilly.com without logging in through the library site, the ability to bookmark ebook 
+and video content, and access to O’Reilly on tablets and mobile devices through the 
+O’Reilly app (iOS and Android compatible).
 ```
 
 ## SSH Keys and Personal Access Tokens

@@ -8,11 +8,11 @@ Introduction to GitHub - https://lab.github.com/githubtraining/introduction-to-g
 
 Using Markdown in GitHub - https://lab.github.com/githubtraining/communicating-using-markdown 
 
-## LinkedIn Learning Videos
+## O'Reilly Safari Learning Videos
 
-Learning Git and GitHub (1h 21m) - https://www.linkedin.com/learning/learning-git-and-github/
+Git and GitHub: The Complete Git and GitHub Course (3h 4m) - https://learning.oreilly.com/videos/git-and-github/9781800204003/
 
-Git Essential Training: The Basics (2h 55m) - https://www.linkedin.com/learning/git-essential-training-the-basics/
+Git Essentials: Become a Git and GitHub Ninja (2h 52m) - https://learning.oreilly.com/videos/git-essentials-become/9781800565630/
 
 ## SSH Keys and Personal Access Tokens
 
@@ -30,10 +30,3 @@ How to Submit a Ticket - https://help.github.com/en/github/working-with-github-s
 
 Support Portal (Submission Form) - https://support.github.com/contact
 
-## Other helpful links:
-
-https://git-scm.com/
-
-https://www.atlassian.com/git/tutorials
-
-https://try.github.io/
